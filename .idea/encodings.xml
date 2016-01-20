@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/InfluxDBCompatibilityVersions.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/Influxdb.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/InfluxdbHttp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/InfluxdbReporter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/InfluxdbSink.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/InfluxdbUdp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/JsonBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/JsonBuilderDefault.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/SkipIdleReporter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/VersionNumber.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/measurements/CategoriesMetricMeasurementTransformer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/measurements/KeyValueMetricMeasurementTransformer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/measurements/MetricMeasurementTransformer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/protocols/HttpInfluxdbProtocol.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/protocols/InfluxdbProtocol.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/protocols/InfluxdbProtocols.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/api/protocols/UDPInfluxdbProtocol.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/AbstractSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/HttpInlinerSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/Measure.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/Measurement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/MeasurementReporter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/QueueableSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/Sender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/measurements/UDPInlinerSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/misc/BoundedFIFO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/misc/Miscellaneous.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/misc/VisibilityIncreasedForTests.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/serialization/json/package-info.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/serialization/line/InfluxDBSortedMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metrics-influxdb-master/src/main/metrics_influxdb/serialization/line/Inliner.java" charset="UTF-8" />
+  </component>
+</project>

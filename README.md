@@ -1,2 +1,6 @@
 # metrics_influxdb
 metrics_influxdb
+
+由于监控spark集群的需要，所以写了这个项目。目前metrics_influxdb的client暂时不支持influxdb的最新版本。
+于是这个项目引用了metrics_influxdb0.7版本的源码，并对其进行了修改，以支持influxdb0.9。并实现了InfluxdbSink这个类.
+通过将编译完的jar文件，放进spark的extlib,下并修改metrics.properties的配置文件，即可启动。
